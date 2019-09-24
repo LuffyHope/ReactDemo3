@@ -46,3 +46,5 @@ AppRegistry.registerComponent(appName, () => App);
 > 在ReactNative中有全局属性navigation他可以去指定我需要跳转的页面。</br>
 > 比如我想去pb页面 只需要这样调用即可``` this.props.navigation.navigate('pb'); ```
 
+
+[项目地址](https://github.com/LuffyHope/ReactDemo3)
